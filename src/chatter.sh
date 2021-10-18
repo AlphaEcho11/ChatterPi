@@ -1,2 +1,3 @@
-cd /home/pi/ChatterPi
-python3 main.py
+cd /home/pi/chatterpi
+python3 main.py &
+python3 controlPanel.py
